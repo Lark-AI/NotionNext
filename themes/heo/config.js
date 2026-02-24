@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的学习空间', url: 'https://yueji.org' },
+    { title: '开始社会化学习，提升人情世故能力。', url: 'https://yueji.org' },
     { title: '先悦己，而后风华自来。', url: 'https://yueji.org' }
   ],
 
