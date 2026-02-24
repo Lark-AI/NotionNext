@@ -11,9 +11,10 @@ export default function PoweredBy(props) {
       <a
         href='https://yueji.org'
         className='underline justify-start'>
-        NotionNext {siteConfig('VERSION')}
+        &nbsp;
+        /**NotionNext {siteConfig('VERSION')}*/
       </a>
-      .
+      /**.*/
     </div>
   )
 }
