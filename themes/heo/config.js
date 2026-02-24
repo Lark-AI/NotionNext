@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '社会化学习',
-  HEO_HERO_TITLE_2: '职场能力提升',
+  HEO_HERO_TITLE_2: '人情世故能力提升',
   HEO_HERO_TITLE_3: 'YUEJI.ORG',
   HEO_HERO_TITLE_4: 'YUEJI.ORG 新版上线',
   HEO_HERO_TITLE_5: '阅已 越已 悦已',
@@ -35,7 +35,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: true, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  //   HERO_RECOMMEND_COVER: 'https://bing.img.run/uhd.php', // 英雄区右侧图片
+  HERO_RECOMMEND_COVER: 'https://bing.img.run/uhd.php', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
