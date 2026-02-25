@@ -22,8 +22,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '社会化学习',
   HEO_HERO_TITLE_2: '人情世故能力提升',
   HEO_HERO_TITLE_3: 'YUEJI.ORG',
-  HEO_HERO_TITLE_4: 'YUEJI.ORG 新版上线',
-  HEO_HERO_TITLE_5: '阅已 越已 悦已',
+  HEO_HERO_TITLE_4: '阅已→越已→悦已',
+  HEO_HERO_TITLE_5: '先悦己，而后风华自来！',
   HEO_HERO_TITLE_LINK: 'https://yueji.org',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
