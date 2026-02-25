@@ -8,8 +8,9 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '提升人情世故能力。', url: 'https://yueji.org' },
-    { title: '先悦己，而后风华自来。', url: 'https://yueji.org' }
+    { title: '学习一点金融知识。', url: 'https://yueji.org' },
+    { title: '提升一点人情世故能力。', url: 'https://yueji.org' },
+    { title: '先悦己，而后风华自来！', url: 'https://yueji.org' }
   ],
 
   // 英雄区左右侧组件颠倒位置
