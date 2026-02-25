@@ -8,8 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '开始提升人情世故能力。', url: 'https://yueji.org' },
-    { title: '开始社会化学习。', url: 'https://yueji.org' },
+    { title: '提升人情世故能力。', url: 'https://yueji.org' },
     { title: '先悦己，而后风华自来。', url: 'https://yueji.org' }
   ],
 
@@ -29,9 +28,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '精选案例', url: '/tag/案例' },
-  HEO_HERO_CATEGORY_2: { title: '人性故事', url: '/tag/故事' },
-  HEO_HERO_CATEGORY_3: { title: '职场规则', url: '/tag/职场' },
+  HEO_HERO_CATEGORY_1: { title: '人情世故', url: '/tag/人情世故' },
+  HEO_HERO_CATEGORY_2: { title: '离钱近点', url: '/tag/金融学习' },
+  HEO_HERO_CATEGORY_3: { title: '职场规则', url: '/tag/职场潜规则' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '',
