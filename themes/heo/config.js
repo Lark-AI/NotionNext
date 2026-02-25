@@ -30,7 +30,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '人情世故', url: '/tag/人情世故' },
-  HEO_HERO_CATEGORY_2: { title: '离钱近点', url: '/tag/金融学习' },
+  HEO_HERO_CATEGORY_2: { title: '离钱近点', url: '/tag/金融知识' },
   HEO_HERO_CATEGORY_3: { title: '职场规则', url: '/tag/职场潜规则' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
